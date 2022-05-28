@@ -7,3 +7,4 @@ Podstawowe komendy:
 NOWA ZMIANA
 
 EDYCJA
+KOLEJNA
