@@ -5,3 +5,5 @@ Podstawowe komendy:
 #Utworzenie nowego folderu
 
 NOWA ZMIANA
+
+EDYCJA
